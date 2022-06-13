@@ -1,0 +1,13 @@
+{
+	"@type":"Process",
+	"Name":"zz_test_1",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"zz_test_1.ti",
+	"UIData":"CubeAction=1511\fDataAction=1503\fCubeLogChanges=0\f",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[]
+}
